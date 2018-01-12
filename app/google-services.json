@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640630500850",
+    "firebase_url": "https://gauge-implementation.firebaseio.com",
+    "project_id": "gauge-implementation",
+    "storage_bucket": "gauge-implementation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640630500850:android:0f882eca9a059232",
+        "android_client_info": {
+          "package_name": "gauge.implementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640630500850-5u051rm63opt343r5efjsdae97otrdg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gauge.implementation",
+            "certificate_hash": "7e97bbe57fc44f1e75d4e7c4add74070021cac39"
+          }
+        },
+        {
+          "client_id": "640630500850-b8equiuqjvh6h0dss9lul5fj6c35tnbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAEbiOAUPnZVzC7917EoXSbtNEPuXxpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640630500850-b8equiuqjvh6h0dss9lul5fj6c35tnbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
